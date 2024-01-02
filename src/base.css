@@ -65,7 +65,8 @@ div[class*="userProfile"][class*="unThemed"].theme-light {
 	--interactive-muted: rgba(var(--dm-white), 0.15);
 	--interactive-normal: rgba(var(--dm-white), 0.5);
 	--interactive-hover: rgba(var(--dm-white), 0.75);
-	--interactive-active: rgba(var(--dm-white), 1);
+/* 	--interactive-active: rgba(var(--dm-white), 1); */
+	--interactive-active: #24a5de;
 	--deprecated-card-bg: rgba(var(--dm-white), 0.05);
 	--text-link: rgba(var(--accent), 1);
 	--focus-primary: rgba(var(--accent), 1);
